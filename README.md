@@ -1,8 +1,5 @@
-# Chansons
+# Une liste de chansons en français:
 
-
-
-Une liste -O de_chansons
 
 wget https://ipfs.io/ipfs/QmUFNPUKx32ffsWPqSMYYZ7fCS838FrzKuL8cxxctoZvkU -O Judith_-_Te_Passe_Pas_De_Moi_-_Clip_Officiel-IzJioojWu9E.mp4
 
@@ -96,7 +93,7 @@ wget https://ipfs.io/ipfs/QmWFSwiXFZV5jnWa2TJ6GLYTzXfPpahsmEbdSKR4QmR4Uu -O On_I
 
 wget https://ipfs.io/ipfs/QmXmxFherNxTPjmUkQJvmnfKscz78Dcx4SvoLksrDXdiZt -O On_Ira-_Zaz_paroles-wiW9eru1ua4.mkv
 
-##Usage
+## Usage
 
 Content on IPFS is not persistent and will eventually disappear from the IPFS network
 if it is not pinned anywhere (equivalent to 'seeding' in bittorrent). To make the content persistent,
